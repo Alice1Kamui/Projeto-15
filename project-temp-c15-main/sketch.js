@@ -1,5 +1,3 @@
-
-
 //Declare a variável para PLAY e END
 var PLAY = 27;
 var END =0;
